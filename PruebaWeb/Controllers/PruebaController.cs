@@ -18,7 +18,7 @@ namespace PruebaWeb.Controllers
         // GET: api/Prueba/5
         public string Get(int id)
         {
-            return "valuoihuhj";
+            return "value1";
         }
 
         // POST: api/Prueba
