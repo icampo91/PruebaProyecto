@@ -12,7 +12,7 @@ namespace PruebaWeb.Controllers
         // GET: api/Prueba
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "value3" };
         }
 
         // GET: api/Prueba/5
